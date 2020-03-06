@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Madi_exer4_Slambook</string>
+    <string name="Hello">HELLO!</string>
+    <string name="Name">Name</string>
+    <string name="EnterName"> Enter Name</string>
+    <string name="Nickname">Nickname</string>
+    <string name="EnterNickname">Enter your Nickname</string>
+    <string name="Age">Age</string>
+    <string name="EnterAge">Enter your Age</string>
+    <string name="Birthday">When is your birthday?</string>
+    <string name="EnterBirthday">Enter your birthday</string>
+    <string name="PhoneNumber">Phone number</string>
+    <string name="EnterPhoneNumber">Enter your Phone number</string>
+    <string name="Email">What is your Email address?</string>
+    <string name="EnterEmail">Enter email address</string>
+    <string name="Course">What is your course?</string>
+    <string name="EnterCourse">Enter course</string>
+    <string name="Dream">What is your ultimate dream?</string>
+    <string name="EnterDream">Enter dream</string>
+    <string name="Crush">Who is your secret crush?</string>
+    <string name="EnterCrush">Enter Crush</string>
+    <string name="Message">What is your message for me?</string>
+    <string name="EnterMessage"></string>
+    <string name="Done">Done</string>
+</resources>
